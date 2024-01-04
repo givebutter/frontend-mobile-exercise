@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "mobile-takehome",
-    "slug": "mobile-takehome",
+    "name": "frontend-mobile-exercise",
+    "slug": "frontend-mobile-exercise",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,11 +25,6 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "865d1998-5e72-408d-897d-ab9d0600ffbc"
-      }
     },
     "owner": "givebutter"
   }
